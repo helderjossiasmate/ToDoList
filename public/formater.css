@@ -1,0 +1,23 @@
+body {
+    background-color: #282c34;
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    margin: 0px;
+}
+
+ul li a {
+    text-decoration: none;
+}
+::before,
+::after {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+* {
+  padding: 0;
+  margin: 0;
+}
